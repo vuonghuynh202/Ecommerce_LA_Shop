@@ -24,11 +24,11 @@ DB_DATABASE= your db name here
 DB_USERNAME= your db username
 DB_PASSWORD= your password
 ```
-7. Generate application key
+6. Generate application key
 ```
 php artisan key:generate
 ```
-8. Start running
+7. Start running
 ```
 php artisan serve
 ```
