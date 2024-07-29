@@ -1,0 +1,8 @@
+#myTable2_previous a, #myTable2_next a {
+    font-size: 12px !important;
+}
+
+.page-link {
+    font-size: 13px;
+    padding: 7px 2px;
+}

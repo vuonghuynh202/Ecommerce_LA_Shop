@@ -1,0 +1,52 @@
+.slider {
+    max-height: 600px;
+    overflow: hidden;
+}
+
+.carousel-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.wishlist-btn-detail {
+    margin-right: 16px;
+}
+
+.rating-option i {
+    font-size: 26px !important;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.user-image-review {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid #ced4da;
+    margin-right: 10px;
+}
+
+.user-image-review img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.user-review-name {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.user-rating i {
+    font-size: 12px;
+}
+
+.review-content {
+    font-size: 13px;
+}
+
+.rating-average {
+    color: #3d464d;
+}
