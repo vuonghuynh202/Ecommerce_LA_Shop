@@ -42,16 +42,23 @@ php artisan serve
 
 # Web images
 ## User
-![image](https://github.com/user-attachments/assets/d1186baa-ce6f-49bc-83a3-cbd4b1b6040c)
-![image](https://github.com/user-attachments/assets/cd45ee0b-2178-468f-87b5-5ad91e06e502)
-![image](https://github.com/user-attachments/assets/4af8e69b-519f-4181-b12f-9793e39dc675)
-![image](https://github.com/user-attachments/assets/8150e98a-f2a8-40f1-adab-f275acfad5f5)
-![image](https://github.com/user-attachments/assets/6de5ab11-4c09-444d-9397-801faf05441c)
-![image](https://github.com/user-attachments/assets/f9591a4b-a1bc-4999-887b-de755ab85ad5)
-![image](https://github.com/user-attachments/assets/c8a33578-ea10-4c85-955c-70bb6cd34df0)
+![image](https://github.com/user-attachments/assets/91025076-e5cc-4bca-bbad-ad83a5726dff)
+![image](https://github.com/user-attachments/assets/cec97133-15c6-4513-88a2-b8ac399f97cd)
+![image](https://github.com/user-attachments/assets/fca5b583-d11d-46c2-ab1c-d307d03ed875)
+![image](https://github.com/user-attachments/assets/189f7ab1-3388-4ad9-b98d-084aec7791cf)
+![image](https://github.com/user-attachments/assets/aa9ed55d-f567-4d02-9d4b-90d55ed5e1f1)
+![image](https://github.com/user-attachments/assets/0679a735-9d38-4156-b6df-1201a6b3efea)
+![image](https://github.com/user-attachments/assets/94987cce-422f-42a8-90b4-a716a8eed8ba)
+![image](https://github.com/user-attachments/assets/4a4750bb-4737-441d-893d-fbdefdf37b9c)
 
 ## Admin
-![image](https://github.com/user-attachments/assets/e667df65-df72-47cf-b042-012c8c385d56)
-![image](https://github.com/user-attachments/assets/de9bd73b-83a2-4338-9e40-a7d5fa26fdfe)
-![image](https://github.com/user-attachments/assets/3f32c1e3-ee26-457c-8dcf-01e86dd25e06)
-![image](https://github.com/user-attachments/assets/7ab5062c-4e00-44ff-9606-486df54fbe16)
+![image](https://github.com/user-attachments/assets/916b0706-a668-4093-b052-91952ed9a548)
+![image](https://github.com/user-attachments/assets/97c95559-fe2c-4eff-a71c-55a3ef6ca69e)
+![image](https://github.com/user-attachments/assets/c24cf88d-4a79-4e43-8801-081791f13a6a)
+![image](https://github.com/user-attachments/assets/7ed41521-184b-4bb1-9c9a-9b7f2a9ba487)
+![image](https://github.com/user-attachments/assets/662b496c-5d1d-41ad-9543-6a7b38bfe3c3)
+
+
+
+
+
