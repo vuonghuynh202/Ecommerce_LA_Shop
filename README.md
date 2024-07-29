@@ -14,7 +14,7 @@ composer install
 ```
 2. Clone the repo and `cd` into it
 ```
-git clone https://github.com/vuonghuynh202/LA-Shop.git
+git clone https://github.com/vuonghuynh202/Ecommerce_LA_Shop.git
 ```
 3. Import the database file from the folder `SQL File`
 4. Rename or copy `.env.example` file to `.env`
